@@ -61,6 +61,6 @@ Dedicated support team available to assist with installation, customization, and
 
 
 ## Get Started:
-Enhance your Magento 2 store's stock management capabilities with the mavenbird/module-admin-category-product-thumbnail module. Simplify stock updates, improve accuracy, and streamline operations today!
+Elevate your Magento 2 store's product management with the mavenbird/module-admin-category-product-thumbnail module. This module introduces the ability to view and manage product thumbnails directly within the category management interface, streamlining your product organization and enhancing visual clarity.
 
 *Thank you!*
