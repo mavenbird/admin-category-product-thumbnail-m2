@@ -1,35 +1,29 @@
 {
-    "name": "mavenbird/module-admin-category-product-thumbnail",
-    "description": "Admin Category Product Thumbnail Extension for Magento 2",
-    "keywords": ["Magento 2", "Admin Category", "Product Thumbnail", "Products in Category", "Magento Backend"],
-    "require": {
-        "php": "~7.3.0||~7.4.0||~8.1.0||~8.2.0||~8.3.0",
-        "magento/framework": "103.0.*",
-        "magento/module-backend": "102.0.*",
-        "magento/module-catalog": "104.0.*"
-    },
-    "type": "magento2-module",
-    "version": "2.4.4",
-    "license": [
-        "OSL-3.0",
-        "AFL-3.0"
-    ],
-    "autoload": {
-        "files": [
-            "registration.php"
-        ],
-        "psr-4": {
-            "Mavenbird\\AdminCategoryProductThumbnail\\": ""
-        }
-    },
-    "authors": [
-        {
-            "name": "Mavenbird Team",
-            "homepage": "https://www.mavenbird.com/",
-            "email": "info@mavenbird.com"
-        }
-    ],
-    "support": {
-        "email": "support@mavenbird.com"
-    }
+  "name": "mavenbird/module-admin-category-product-thumbnail",
+  "description": "The Admin Category Product Thumbnail module enhances Magento 2's admin interface by providing administrators with the ability to view and manage product thumbnails directly within the category management screen. This module improves the visual organization of products, making it easier to identify and manage product listings in the admin panel.",
+  "require": {
+      "php": ">=8.0.0"
+  },
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "authors": [
+      {
+        "name": "Mavenbird",
+        "email": "support@mavenbird.com",
+        "homepage": "https://www.mavenbird.com",
+        "role": "Technical Support"
+      }
+  ],
+  "autoload": {
+      "files": [
+          "registration.php"
+      ],
+      "psr-4":  { 
+          "Mavenbird\\AdminCategoryProductThumbnail\\": ""
+      }
+  }
 }
