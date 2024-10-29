@@ -1,4 +1,4 @@
-<?php 
+<?php
 /**
  * Mavenbird Technologies Private Limited
  *
@@ -16,7 +16,7 @@
  * @author     Mavenbird Team
  * @copyright  Copyright (c) 2018-2024 Mavenbird Technologies Private Limited ( http://mavenbird.com )
  * @license    http://mavenbird.com/Mavenbird-Module-License.txt
- */ 
+ */
 declare(strict_types=1);
 
 namespace Mavenbird\AdminCategoryProductThumbnail\Block\Adminhtml\Category\Tab;
